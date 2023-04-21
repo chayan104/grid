@@ -1,0 +1,23 @@
+.bnr-img{
+  width: 100%;
+  height: 700px;
+}
+.about-para{
+  font-weight: bold;
+}
+.row{
+  display: flex!important;
+  flex-wrap: wrap;
+}
+.img-2{
+  width: 100%;
+  height: 400px;
+}
+.pic{
+  display: flex;
+  flex-wrap: wrap;
+}
+.card{
+  /* width: 100%!important; */
+  margin-left: 100px!important;
+}
